@@ -1,0 +1,3 @@
+- Hi, I’m @jgkallen
+- I’m interested in cognitive science, neuroscience, moral psychology, and political science.
+- I’m currently learning Python and R.
